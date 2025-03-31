@@ -64,5 +64,8 @@ Many customers prefer purchasing full albums rather than individual tracks.
 
 Repeat customers contribute over 60% of revenue, emphasizing the importance of customer retention strategies.
 
+- Thank You![ChatGPT Image Mar 31, 2025, 01_29_10 PM](https://github.com/user-attachments/assets/c58d712d-7c03-49a8-aa9f-8941a716a43f)
+
+
 
   
