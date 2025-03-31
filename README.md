@@ -29,9 +29,7 @@ country. Write a query that returns the country along with the top customer and 
 much they spent. For countries where the top amount spent is shared, provide all 
 customers who spent this amount
 ## Query Screenshot
-![Music Store Dashboard](https://raw.githubusercontent.com/johndoe/music-store-analysis/main/screenshots/dashboard.png)
-
-![](https://github.com/Sourav-311/Music-Store-Analysis-SQL/blob/main/Query%20ScreenShots.zip)
+![Query ScreenShots](https://github.com/Sourav-311/Music-Store-Analysis-SQL/blob/main/Query%20ScreenShots.zip)
 ## Key Insights
 
 1️⃣ Most Popular Music Genre by Country
