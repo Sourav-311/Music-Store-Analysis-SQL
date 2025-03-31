@@ -3,6 +3,7 @@ This repository contains SQL queries for analyzing music store data, covering sa
 # QUESTIONS asked by Clients :
 - Who is the senior most employee based on job title?
 ![Screenshot 2025-03-31 121553](https://github.com/user-attachments/assets/bd7437fe-cb1e-4192-bf00-0c7ba3a88908)
+
 - Which countries have the most Invoices?
 ![Screenshot 2025-03-31 121639](https://github.com/user-attachments/assets/ded6ee4f-ed90-425c-9248-f9d2e4f6cf4a)
 
