@@ -5,6 +5,8 @@ This repository contains SQL queries for analyzing music store data, covering sa
   ![Screenshot 2025-03-31 121553](https://github.com/user-attachments/assets/69c4bc95-cccc-4ca7-b8c3-30665be9a636)
 
 - Which countries have the most Invoices?
+  ![Screenshot 2025-03-31 121639](https://github.com/user-attachments/assets/288175e2-5651-4336-9a1e-491c67dadea4)
+
 - What are top 3 values of total invoice?
 - Which city has the best customers? We would like to throw a promotional Music 
 Festival in the city we made the most money. Write a query that returns one city that 
