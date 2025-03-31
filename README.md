@@ -2,14 +2,8 @@
 This repository contains SQL queries for analyzing music store data, covering sales trends, customer insights, and inventory management. The project demonstrates SQL skills through data extraction, transformation, and analysis.
 # QUESTIONS asked by Clients :
 - Who is the senior most employee based on job title?
-![Screenshot 2025-03-31 121553](https://github.com/user-attachments/assets/bd7437fe-cb1e-4192-bf00-0c7ba3a88908)
-
 - Which countries have the most Invoices?
-![Screenshot 2025-03-31 121639](https://github.com/user-attachments/assets/ded6ee4f-ed90-425c-9248-f9d2e4f6cf4a)
-
 - What are top 3 values of total invoice?
-![Screenshot 2025-03-31 121753](https://github.com/user-attachments/assets/b40f1afc-ac56-4f42-9a32-20936e0bc463)
-
 - Which city has the best customers? We would like to throw a promotional Music 
 Festival in the city we made the most money. Write a query that returns one city that 
 has the highest sum of invoice totals. Return both the city name & sum of all invoice 
